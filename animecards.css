@@ -63,8 +63,8 @@ section{
 
 .card .card-img{
     width: 100%;
-    height: 26rem;
-    object-fit: cover;
+    height: 25rem;
+    object-fit: fill;
     clip-path: polygon(0 0, 100% 0, 100% 73%, 0 100%);
 }
 
