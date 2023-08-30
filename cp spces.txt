@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>POCO F5 Pro - Product Page</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+
+    .product-image {
+      text-align: center;
+    }
+
+    .product-image img {
+      max-width: 100%;
+      height: auto;
+    }
+
+    .product-details {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      margin-top: 20px;
+    }
+
+    .product-details .col {
+      width: 50%;
+      padding: 10px;
+      box-sizing: border-box;
+    }
+
+    .product-details .col h2 {
+      font-size: 24px;
+      margin: 0 0 10px 0;
+    }
+
+    .product-details .col p {
+      margin: 0;
+    }
+
+    .product-details .col .spec-list {
+      margin-top: 10px;
+      padding-left: 20px;
+    }
+
+    .product-details .col .spec-list li {
+      list-style: disc;
+      margin-bottom: 5px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="product-image">
+      <img src="webdev.jpg" alt="POCO F5 Pro">
+    </div>
+
+    <div class="product-details">
+      <div class="col">
+        <h2>POCO F5 Pro</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt turpis in orci tincidunt fringilla. Donec sed ultricies elit. Nam pharetra turpis dolor, sit amet cursus mauris sollicitudin ac.</p>
+        <p>Price: $999</p>
+      </div>
+
+      <div class="col">
+        <ul class="spec-list">
+          <li>6.7" Super AMOLED display</li>
+          <li>Qualcomm Snapdragon 888 processor</li>
+          <li>8GB RAM, 128GB storage</li>
+          <li>108MP main camera</li>
+          <li>5000mAh battery</li>
+          <li>Android 12</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,129 @@
+Storage
+6GB+128GB, 8GB+128GB, 8GB+256GB
+LPDDR4X RAM + UFS 2.2
+
+Design
+Matte finish
+Dimension: 159.3 × 73.7 × 7.29mm
+Weight: 173g
+*Data provided by internal laboratories. Industry measurement methods may vary, and therefore actual results may differ.
+
+Display
+6.55" FHD+ AMOLED DotDisplay
+Color depth: up to 68 billion colors (10-bit +2-bit)
+Refresh rate: 120Hz
+AdaptiveSync display: 60/120Hz
+Dolby Vision®
+HDR10+
+Touch sampling rate: 240Hz
+20:9, 2400 x 1080
+402ppi
+360-degree ambient light sensors
+Color gamut: sRGB, DCI-P3
+Color gamut: sRGB 100% (typ), DCI-P3(typ)
+Contrast ratio: 5,000,000:1 (typ)
+Brightness: 500nits (typ), 800nits (High Brightness mode), up to 950nits (peak)
+Reading mode 3.0
+Sunlight mode 3.0
+Corning® Gorilla® Glass 5
+TrueColor technology, ΔE ≈ 0.31, JNCD ≈ 0.26
+True Display
+1920Hz PWM dimming
+
+Rear camera
+108MP wide-angle camera
+1/1.52” sensor size
+6P lens
+8MP ultra-wide angle camera
+f/2.2
+120° FOV
+2MP macro camera
+f/2.4
+Fixed focus (4cm focus distance, cannot focus at infinity)
+Rear camera photography features
+108MP mode
+Eye tracking focus
+Night mode
+Motion capture
+Timed burst
+AI portrait mode with bokeh and depth control
+AI SkyScaping
+Magic cutout
+Rear camera video features
+One-click AI cinema
+19 vlog modes
+12 video filters
+Time-lapse video
+Rear video recording
+4K 3840x2160 at 30fps
+1080p 1920x1080 at 60fps
+1080p 1920x1080 at 30fps
+720p 1280x720 at 30fps
+Slow motion video: 
+120fps, 1080p/720p
+240fps, 720p
+960fps, 720p
+
+Front camera
+32MP in-display selfie camera
+f/2.45
+5P lens
+Dual LEDs
+Front camera photography features
+Eye tracking focus
+Night mode
+AI Beautify
+AI portrait mode with bokeh and depth control
+Front camera video features
+Time-lapse selfie
+
+Processor
+Snapdragon® 778G
+Kryo 670 CPU, up to 2.4GHz
+Adreno™ 642L GPU
+
+Battery & Charging
+4300mAh (typ) battery
+67W turbo charging
+67W inbox charger
+
+Security & Authentication
+In-screen fingerprint sensor
+AI Face Unlock
+
+Network & Connectivity
+Dual SIM, dual standby
+5G NR: n1, n3, n5, n7, n8, n20, n28, n38, n40, n41, n66, n77, n78
+LTE FDD: 1/2/3/4/5/7/8/12/13/17/18/19/20/26/28/32/66
+LTE TDD: 38/40/41/42/48
+WCDMA: 1/2/4/5/6/8/19
+GSM: 2/3/5/8
+Supported protocols: Wi-Fi 6 (802.11ax), Wi-Fi 5 (802.11ac) and 802.11a/b/g/n
+Supports 2.4GHz Wi-Fi / 5GHz Wi-Fi
+Bluetooth 5.2
+
+Navigation
+BeiDou: B1I + B1C
+GPS: L1
+Galileo: E1，GLONASS: G1
+QZSS: L1
+A-GPS supplementary positioning | Electronic compass | Wireless network | Data network
+
+Audio
+Dolby Atmos®
+Dual speakers
+
+Audio playback
+Supported audio formats: MP3, FLAC, APE, AAC, OGG, WAV, WMA, AMR, AWB
+
+Video playback
+MP4丨MKV丨AVI丨WMV丨WEBM丨3GP丨ASF
+
+Sensor
+Proximity sensor | Ambient light sensor | Accelerometer | Gyroscope | Electronic compass | Linear motor | IR blaster
+
+UI and system
+LOUI 13, Android 12
+
+Package content
+Locus 18 Lite / Adapter / USB Type-C Cable / SIM Eject Tool / Protective Case / Quick Start Guide / Warranty Card

@@ -1,0 +1,53 @@
+Storage & RAM
+8GB+128GB, 8GB+256GBLPDDR5 RAM + UFS 3.1 storage*Available storage and RAM are less than the total memory due to storage of the operating system and software pre-installed on the device.
+
+Dimensions
+Height: 164.3mm
+Width: 74.6mm
+Thickness: 8.06mm
+Weight: 196g*Data provided by internal laboratories. Industry measurment methods may vary, and therefore actual results may differ.
+
+Display
+Quad-curved displayWQHD+ 6.81" AMOLED DotDisplay3200x1440, 515 ppi Aspect ratio: 20:9Contrast ratio: 5,000,000:1Super Resolution  Color gamut: DCI-P3 100% (typ)10-bit colorTrueColor display: JNCD≈ 0.38, ΔE≈ 0.41Brightness: HBM 900 nits(typ), 1500 nits peak brightness HDR10+Refresh rate: 120HzAdaptiveSync display: 30Hz/60Hz/90Hz/120HzTouch sampling rate: up to 480HzCorning®Gorrila® Glass Victus™AI displayReading mode 3.0Sunlight mode 3.0360° ambient light sensor 2.0DisplayMate A+SGS Eye Care Display Certification SGS Seamless Pro Motion Speed 120HzHardware-level mistouch sensor 
+
+Processor
+Qualcomm® Snapdragon™ 888CPU: Qualcomm® Kryo™ 680, 5nm power-efficient manufacturing process, up to 2.84GHz, with Arm Cortex-X1 technologyGPU: Qualcomm® Adreno™ 660 GPUAI: 6th gen Qualcomm® AI EngineSnapdragon X60 5G integrated modem
+
+Battery & Charging
+4600mAh (typ) battery55W wired turbo charging/ 50W wireless turbo charging/ 10W reverse wireless charging
+
+Camera
+108MP wide angle camera1/1.33" sensor size0.8μm pixel size, 1.6μm 4-in-1 Super Pixelf/1.85OIS13MP ultra-wide angle cameraFOV 123°f/2.45MP telemacro cameraf/2.4AF (3cm-10cm)Rear camera photography features AI Erase 2.0Night mode 2.0 (wide/ultra wide)Rear camera video features Ultra Night VideoOne-Click AI Cinema: Magic Zoom, Slow Shutter, Time Freeze, Night Time-lapse, Parallel World, Freeze Frame VideoCinematic video filtersHDR10+ videoPro Time-lapseRear video recording 8K 7680x4320 | 30fps, 24fps4K 3840x2160 | 60fps, 30fps1080p 1920x1080 | 60fps, 30fps720p | 30fpsSlow motion: 120fps: 720p, 1080p  | 240fps: 720p, 1080p20MP in-display selfie cameraf/2.20.8μm pixel size, 1.6μm 4-in-1 Super PixelFront camera photography features Selfie Night modeFront camera video features Video HDRFront video recording 1080p 1920x1080 | 30fps, 60fps720p 1280x720 | 30fpsSlow motion video: 120fps: 720p 
+
+Security
+In-screen fingerprint sensor (Supports In-display heart rate monitoring)AI face unlock
+
+Security
+Supports Google Pay**Availability varies between markets
+
+Network & Connectivity
+Dual SIMNetwork bands: Supports 5G / 4G / 3G/ 2G 5G: n1, n3, n5, n7, n8, n20, n28, n38, n41, n77, n78, n794G: 
+FDD-LTE Band 1, 2, 3, 4, 5, 7, 8, 12, 17, 20, 28, 32, 66
+TDD-LTE Band 38, 40, 41, 423G: WCDMA Band 1,2,4,5,82G: GSM 850 900 1800 1900 MHzSupports 4x4 MIMO*5G connectivity may vary based on region availability and local operator support.Wireless NetworksWi-Fi 6Bluetooth 5.2Supports AAC/LDAC/LHDC
+
+Navigation & Positioning
+GPS: L1+L5Galileo: E1+E5a | GLONASS: G1 | Beidou
+
+Audio
+Dual speakers SOUND BY Harman KardonHi-Res Audio certification 
+
+Video
+Supports HDR 10+ display when playing HDR10+ 
+video content
+
+Vibration motor
+X-axis linear vibration motor
+
+Sensors
+Proximity sensor | Ambient light sensor | Accelerometer | Gyroscope | Electronic compass | Linear motor | IR blaster 
+
+Operating System
+LOUI 12, Android 11
+
+Package Contents
+Locus 17X Pro 5G. / Power Adapter /USB Type-C Cable /Type-C to 3.5 mm Headphone Adapter/ SIM Eject Tool / Soft Case /User Guide / Warranty Card
